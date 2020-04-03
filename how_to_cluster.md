@@ -22,9 +22,12 @@ https://github.com/bihealth/bih-cluster/wiki
 
 ## How to make your windows PC ready for use with unix 
 
+You can use a linux subsystem on windows 10. See here for an instruction: 
+[windows_subsystem_for_linux.md](windows_subsystem_for_linux.md).
+
 This is useful for file transfer via command line (scp).
 
-Make unix style commands on a windows PC:
+Alternatively you can make unix style commands on a windows PC like this:
 
 download cygwin:
 
