@@ -11,6 +11,8 @@ Some of the following Charité-related things need the Personalnr. (usually foun
 1. Get a Charité account (follow instructions depending on your status as Mitarbeiter/in if you have a contract or Externe if you do not have a contract with Charité)
 https://intranet.charite.de/it/it_serviceueberblick/e_mail_dienst/
 
+Please send the signed application form als pdf to the secretary Mrs Bakalli (teuta.bakalli@charite.de) and cc Florian (florian.schlagenhauf@charite.de) and she will forward it to the IT.  
+
 ## Key for rooms :key:
 
 2. Get a key
@@ -19,7 +21,9 @@ OR Owncloud -> AG_Lernen_und_Kognition -> Schlüssel.doc (already filled out)
 
 what you need.
 
-- Florian’s signature/stamp
+- Florian’s signature/stamp for key application
+
+Due to Corona situation we limit persons per room. Please use the google calendar and enter there when you will be in the office. Nuria can give you access to the calender (nuria.donamayor@charite.de).
 
 # Computing and communication
 
