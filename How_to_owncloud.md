@@ -4,7 +4,7 @@ Instead of using dropbox we have owncloud for file sharing (e.g. code and docume
 
 # How to get access to Own cloud
 
-send an email to jakob.kaminski@charite.de (who takes care of owncloud for AG Lernen) requesting access to owncloud
+send an email to jakob.kaminski@charite.de (who takes care of owncloud for AG Lernen) requesting access to owncloud. He will set up a user account in OwncCloud.
 
 # Download a Desktopclient
 
