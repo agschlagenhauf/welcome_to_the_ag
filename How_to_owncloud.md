@@ -1,6 +1,6 @@
 # Cloud computing system supported by Charité IT
 
-Instead of using dropbox we have owncloud for file sharing (e.g. code and documents). It is currently not recommended for data storage.  
+Instead of using dropbox we have owncloud (🏗️ deprecated) for file sharing (e.g. code and documents). It is currently not recommended for data storage.  
 
 # How to get access to Own cloud
 
